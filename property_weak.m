@@ -1,6 +1,7 @@
 // Property Weak
 // PW
 //
+// IDECodeSnippetCompletionPrefix: PW
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 70919A7C-88B5-424E-B18B-A7CC3060C119
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
